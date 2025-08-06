@@ -2,7 +2,7 @@
 
 my personal learning repo for the Go standard library.
 
-Instead of trying to learn all 200+ standard packages, I’ve created a focused roadmap that covers the **core packages** most Go developers use day-to-day. I'm learning by building simple programs using these packages, and sharing the journey here.
+I’ve created a focused roadmap that covers the **core packages** most commonly used in Go. I'm learning by building simple programs using these packages, and sharing the journey here.
 
 If you're also learning Go and want a practical starting point, feel free to use this plan!
 
@@ -122,18 +122,9 @@ Built-in containers and helpers.
 
 ---
 
-## 📚 Resources I Use
+## Resources I Use
 
 - [Go by Example](https://gobyexample.com/)
 - [Go Standard Library Official Docs](https://pkg.go.dev/std)
 - [Awesome Go](https://awesome-go.com/)
 
----
-
-## 🤝 Contribute or Fork
-
-If you find this helpful, feel free to fork, suggest improvements, or share your own focused learning path!
-
----
-
-Thanks for stopping by! 🚀
