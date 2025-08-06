@@ -14,7 +14,7 @@ The primary goal of this repo is to:
 
 You'll find various standalone folders or files inside, each focusing on a specific topic or idea. Topics may include:
 
-- 
+1. learning standard packages
 
 ## Notes
 
